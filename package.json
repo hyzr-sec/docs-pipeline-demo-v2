@@ -1,0 +1,8 @@
+{
+  "name": "docs-pipeline-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "prebuild": "tsc",
+    "build": "echo 'Build complete'"
+  }
+}
